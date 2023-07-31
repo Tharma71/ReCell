@@ -1,0 +1,24 @@
+Criteria	  Ratings	  Points
+
+A. Exploratory Data Analysis  12/12
+i. You have a very good understanding on the business problem and solution approach ii. Well done on data overview, sanity checks, univariate, and bivariate analysis. 3. All insight-based questions answered well.
+
+B. Data preprocessing 7/8
+i. You have not checked the duplicate values.  ii. Well done on missing values imputation, outlier checks, FE etc. iii. All key preprocessing steps were used to prepare the data for modeling.
+
+C. Model building - Linear Regression  10/10
+i. Good job on model building and its performance	
+
+D. Testing the assumptions of linear regression model  10/10
+i. Good job on performing all the key tests on linear model.
+
+E. Model performance evaluation  6/6
+i. The final model was thoroughly evaluated using key metrics
+
+F. Actionable Insights & Recommendations  6/6
+i. Very detail insights and key takeway recommendations for the business. Keep it up!	
+
+G. Presentation/Notebook - Overall quality  8/8
+i. The notebook is well structured and commented
+
+Points	59/60
